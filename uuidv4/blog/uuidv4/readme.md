@@ -7,6 +7,6 @@ Ces uuid sont uniquement consitués de valeurs aléatoires.
 
 ## Points remarquables et points d'attentions
 
-  - La seule fonction aléatoire utilisée est MAth.random
-  - La norme est respectée.
+    - La seule fonction aléatoire utilisée est MAth.random
+    - La norme est respectée.
 
